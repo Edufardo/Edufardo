@@ -11,10 +11,12 @@ Las tecnologías que utilizo y voy aprendiendo son:
 
 - HTML
 - CSS
+- Bootstrap
 - Tailwind
 - Javascript
 - ReactJS
-- Python
+- Angular
+- NestJs
 
 
 
