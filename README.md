@@ -16,7 +16,10 @@ Las tecnologías que utilizo y voy aprendiendo son:
 - Javascript
 - ReactJS
 - Angular
+- NodeJs
 - NestJs
+- MongoDB
+- SQL
 
 
 
